@@ -9,3 +9,9 @@ sara.py
 
 nanvayi.py
 ![Screenshot 2023-08-15 165312](https://github.com/navidrezahadian/python.tamrin/assets/92804948/6fca4940-d4df-49cf-82bb-9ca5afe4d185)
+
+sort reverse.py
+![Screensh   ot 2023-08-15 170024](https://github.com/navidrezahadian/python.tamrin/assets/92804948/d82654f8-bba6-4b79-b7e7-d7b89d8d76f9)
+
+str big.py
+![Screenshot 2023-08-15 170257](https://github.com/navidrezahadian/python.tamrin/assets/92804948/44eca0d3-43ab-45f3-b323-f5a56e42f0a6)
