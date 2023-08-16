@@ -6,3 +6,6 @@ palindrome.py
 
 temp temp.py
 ![Screenshot 202 3-08-15 171008](https://github.com/navidrezahadian/python.tamrin/assets/92804948/e1798657-ed75-48d6-974e-6717180c306c)
+
+count.py
+![Screenshot 2023-08-16 191406](https://github.com/navidrezahadian/python.tamrin/assets/92804948/0e41327b-e45d-428b-b59a-8b275f2e288f)
