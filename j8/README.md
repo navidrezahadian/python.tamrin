@@ -6,3 +6,6 @@ n input.py
 
 sum in 2number
 ![Screenshot 2023-08-18 230649](https://github.com/navidrezahadian/python.tamrin/assets/92804948/b2b9bc92-512a-46b3-9090-9b99d5bb3cc0)
+
+prime.py
+![Screenshot 2023-08-18 232330](https://github.com/navidrezahadian/python.tamrin/assets/92804948/9babbcd8-b534-4885-b70e-6e9d74039c59)
