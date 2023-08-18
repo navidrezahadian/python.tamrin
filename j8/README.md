@@ -9,3 +9,6 @@ sum in 2number
 
 prime.py
 ![Screenshot 2023-08-18 232330](https://github.com/navidrezahadian/python.tamrin/assets/92804948/9babbcd8-b534-4885-b70e-6e9d74039c59)
+
+marble.py
+![Screenshot 2023-08-18 233323](https://github.com/navidrezahadian/python.tamrin/assets/92804948/b1e0a20d-fcc7-45fa-94b5-731c1ff3e1f9)
