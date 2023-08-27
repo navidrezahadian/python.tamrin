@@ -15,3 +15,6 @@ atm.py
 
 update calculator.py
 ![Screenshot 2023-08-27 121011](https://github.com/navidrezahadian/python.tamrin/assets/92804948/17474460-820f-4388-ac82-bdd8c5f4a2f6)
+
+sum number.py
+![Screenshot 2023-08-27 121339](https://github.com/navidrezahadian/python.tamrin/assets/92804948/f3ec857f-f947-4240-98bf-d8956bdeeac7)
