@@ -9,3 +9,6 @@ multipel 7.py
 
 sin in.py
 ![Screenshot 2023-08-15 161153](https://github.com/navidrezahadian/python.tamrin/assets/92804948/5a9079a1-8df7-4369-a168-60f57fe893bc)
+
+calculator.py
+![Screenshot 2023-08-27 120746](https://github.com/navidrezahadian/python.tamrin/assets/92804948/08fadd50-d755-4f51-99e9-ad60807df21f)
