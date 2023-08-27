@@ -12,3 +12,6 @@ count.py
 
 atm.py
 ![Screenshot 2023-08-16 204532](https://github.com/navidrezahadian/python.tamrin/assets/92804948/449b70bb-bcd4-4a89-a1b2-0e1e38f5c9eb)
+
+update calculator.py
+![Screenshot 2023-08-27 121011](https://github.com/navidrezahadian/python.tamrin/assets/92804948/17474460-820f-4388-ac82-bdd8c5f4a2f6)
